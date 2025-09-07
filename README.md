@@ -5,7 +5,7 @@ Here, I am documenting my learning journey — from beginner level to AI and mac
 In this repository, I will share my codes, challenges, and improvements at each step.
 
 ## 👩‍💻 About Me  
-Hi, I am Tabassum praveen (kiki).
+Hi, I am Tabassum Praveen (kiki)!
 I love technology, programming, and solving real-world problems, especially in healthcare.  
 I’m learning step by step, building projects that use Python and Artificial Intelligence to help people and create innovative solutions.
 
