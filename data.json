@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "name": "Python Basics",
+      "date_started": "2025-09-07",
+      "progress": "In progress",
+      "notes": ["Learned about variables", "understood loops"]
+    },
+    {
+      "name": "AI Concepts",
+      "date_started": "",
+      "progress": "Not started",
+      "notes": []
+    }
+  ]
+}
